@@ -21,7 +21,10 @@ function divide(a,b){
   }
   function makeInt(n){
     return parseInt (n,10)
+<<<<<<< HEAD
   }
   function preserveDecimal(n){
     return parseFloat(n,10)
+=======
+>>>>>>> 19e58a784968ac1cc26a76b061b1a788f9d749a2
   }
